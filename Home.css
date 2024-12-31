@@ -229,12 +229,12 @@ img {
     padding-block: 4.5rem 4rem;
     transition: top .4s;
   }
-  .imgs{
+  /* .imgs{
     min-width: 40px;
     min-height: 40px;
     border-radius: 40px;
     margin-inline: auto;
-  }
+  } */
 }
 /*=============== SEARCH ===============*/
 .search__form {
