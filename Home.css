@@ -149,14 +149,14 @@ img {
 }
 
 .nav-logo {
-  color: var(--title-color);
+  /* color: var(--title-color);
   font-weight: var(--font-semi-bold);
-  transition: color .4s;
+  transition: color .4s; */
   margin-left: -5vw;
 }
 .imgs{
-  width:  75px;
-  height: 75px;
+  width:  5vw;
+  height: 5vw;
   border-radius: 5vw;
 }
 .nav__actions {
@@ -212,6 +212,10 @@ img {
   right: 1.5rem;
 }
 
+.nav-logo{
+  width:  2vw;
+  height: 2vw;
+}
 /* Show menu */
 .show-menu {
   top: 0;
